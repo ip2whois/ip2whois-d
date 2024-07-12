@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"IP2Whois"
+	],
+	"copyright": "Copyright © 2024, IP2Whois",
+	"dependencies": {
+		"urld": "~>2.1.1"
+	},
+	"description": "IP2WHOIS D Library",
+	"homepage": "https://github.com/ip2whois/ip2whois-d",
+	"license": "MIT",
+	"name": "ip2whois-d",
+	"targetType": "library"
+}
